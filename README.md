@@ -147,13 +147,3 @@ A CPU "pensa" em intervalos que ficam menores a cada round. Assim ela reage mais
 | `controller/` | `ControladorJogo` (game loop), `ControladorTeclado`, `MapaTeclas` |
 
 Para a explicação técnica completa de cada classe, da arquitetura e dos pilares de POO, veja **[DOCUMENTACAO.md](DOCUMENTACAO.md)**.
-
----
-
-## 💡 Ideias para o futuro
-
-- Mais personagens, com golpes especiais diferentes
-- Sons e música em chiptune
-- Suporte a controles (gamepad)
-- Golpes especiais por sequência de comandos (ex.: ↓ ↘ → + soco)
-- Placar de recordes salvo em arquivo
