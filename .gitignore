@@ -1,0 +1,14 @@
+# Arquivos compilados
+bin/
+*.class
+fontes.txt
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/
+out/
